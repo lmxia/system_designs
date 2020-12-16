@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-16T08:35:16.462Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="DPKsetHAkphMOU3_lAwe" version="14.0.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-12-16T09:02:36.405Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="cGmT2WAdsQanrn1pGmZi" version="14.0.1" type="github" pages="5">
   <diagram id="DAFPHoVdk3YulrqNeCpr" name="Page-1">
     <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -457,7 +457,7 @@
         <mxCell id="kgTtI0zeSmzzGsi_rJ50-9" value="接入K8S集群" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="kgTtI0zeSmzzGsi_rJ50-1">
           <mxGeometry x="600" y="560" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="kgTtI0zeSmzzGsi_rJ50-10" value="Federation V2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="kgTtI0zeSmzzGsi_rJ50-1">
+        <mxCell id="kgTtI0zeSmzzGsi_rJ50-10" value="跨集群资源同步" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="kgTtI0zeSmzzGsi_rJ50-1">
           <mxGeometry x="370" y="390" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kgTtI0zeSmzzGsi_rJ50-11" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="kgTtI0zeSmzzGsi_rJ50-1" source="kgTtI0zeSmzzGsi_rJ50-10" target="kgTtI0zeSmzzGsi_rJ50-7">
@@ -577,7 +577,7 @@
         <mxCell id="kgTtI0zeSmzzGsi_rJ50-38" value="集群管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="kgTtI0zeSmzzGsi_rJ50-1">
           <mxGeometry x="253.75" y="310" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="kgTtI0zeSmzzGsi_rJ50-39" value="应用管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="kgTtI0zeSmzzGsi_rJ50-1">
+        <mxCell id="kgTtI0zeSmzzGsi_rJ50-39" value="应用管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="kgTtI0zeSmzzGsi_rJ50-1">
           <mxGeometry x="368.75" y="310" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kgTtI0zeSmzzGsi_rJ50-40" value="多集群调度" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="kgTtI0zeSmzzGsi_rJ50-1">
@@ -648,12 +648,6 @@
         </mxCell>
         <mxCell id="kgTtI0zeSmzzGsi_rJ50-64" value="权限管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="kgTtI0zeSmzzGsi_rJ50-1">
           <mxGeometry x="260" y="390" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="kgTtI0zeSmzzGsi_rJ50-66" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="kgTtI0zeSmzzGsi_rJ50-1">
-          <mxGeometry x="630" y="370" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="kgTtI0zeSmzzGsi_rJ50-67" value="开源" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="kgTtI0zeSmzzGsi_rJ50-1">
-          <mxGeometry x="670" y="375" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kgTtI0zeSmzzGsi_rJ50-68" value="报表统计" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="kgTtI0zeSmzzGsi_rJ50-1">
           <mxGeometry x="491.25" y="390" width="100" height="50" as="geometry" />
