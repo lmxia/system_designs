@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-26T08:13:50.401Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="Q7cumbxj4coS63Dfv-lK" version="14.2.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-01-26T08:17:15.660Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="hIIPan6ON8ItYXfVP9Lq" version="14.2.7" type="github" pages="7">
   <diagram id="DAFPHoVdk3YulrqNeCpr" name="Page-1">
     <mxGraphModel dx="946" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -556,7 +556,7 @@
         <mxCell id="kgTtI0zeSmzzGsi_rJ50-43" value="服务监控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="kgTtI0zeSmzzGsi_rJ50-1" vertex="1">
           <mxGeometry x="230.89" y="262.5" width="75.11" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="kgTtI0zeSmzzGsi_rJ50-45" value="Serverless 控制器（副本、规格、存储描述）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="kgTtI0zeSmzzGsi_rJ50-1" vertex="1">
+        <mxCell id="kgTtI0zeSmzzGsi_rJ50-45" value="Serverless 控制器（副本、规格、存储、网络指标）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="kgTtI0zeSmzzGsi_rJ50-1" vertex="1">
           <mxGeometry x="146" y="320" width="334" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kgTtI0zeSmzzGsi_rJ50-46" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="kgTtI0zeSmzzGsi_rJ50-1" vertex="1">
