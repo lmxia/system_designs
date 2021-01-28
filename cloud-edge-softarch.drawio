@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T03:39:12.915Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="rcp9QhD2JvdDo9eOoQtg" version="14.2.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-01-28T06:23:56.366Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="zp6Lp-X4usWcpu1Q5SuL" version="14.2.7" type="github" pages="7">
   <diagram id="DAFPHoVdk3YulrqNeCpr" name="Page-1">
     <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -457,7 +457,7 @@
         <mxCell id="kgTtI0zeSmzzGsi_rJ50-9" value="接入K8S集群" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="kgTtI0zeSmzzGsi_rJ50-1" vertex="1">
           <mxGeometry x="770" y="550" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kgTtI0zeSmzzGsi_rJ50-10" value="跨集群资源同步" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="kgTtI0zeSmzzGsi_rJ50-1" vertex="1">
+        <mxCell id="kgTtI0zeSmzzGsi_rJ50-10" value="资源同步" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="kgTtI0zeSmzzGsi_rJ50-1" vertex="1">
           <mxGeometry x="230.89" y="410" width="89.11" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kgTtI0zeSmzzGsi_rJ50-14" value="Edge" style="rounded=1;whiteSpace=wrap;html=1;" parent="kgTtI0zeSmzzGsi_rJ50-1" vertex="1">
@@ -517,31 +517,31 @@
             <mxPoint x="176" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kgTtI0zeSmzzGsi_rJ50-31" value="" style="endArrow=classic;html=1;exitX=0.157;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="kgTtI0zeSmzzGsi_rJ50-1" edge="1">
+        <mxCell id="kgTtI0zeSmzzGsi_rJ50-31" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="kgTtI0zeSmzzGsi_rJ50-1" edge="1" source="kgTtI0zeSmzzGsi_rJ50-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="522.57" y="790" as="sourcePoint" />
             <mxPoint x="466.13" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kgTtI0zeSmzzGsi_rJ50-32" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="kgTtI0zeSmzzGsi_rJ50-1" edge="1">
+        <mxCell id="kgTtI0zeSmzzGsi_rJ50-32" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="kgTtI0zeSmzzGsi_rJ50-1" edge="1" source="kgTtI0zeSmzzGsi_rJ50-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="522.38" y="790" as="sourcePoint" />
             <mxPoint x="581.13" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kgTtI0zeSmzzGsi_rJ50-33" value="" style="endArrow=classic;html=1;exitX=0.157;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="kgTtI0zeSmzzGsi_rJ50-1" edge="1">
+        <mxCell id="kgTtI0zeSmzzGsi_rJ50-33" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="kgTtI0zeSmzzGsi_rJ50-1" edge="1" source="kgTtI0zeSmzzGsi_rJ50-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="820.19" y="790" as="sourcePoint" />
             <mxPoint x="763.75" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kgTtI0zeSmzzGsi_rJ50-34" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="kgTtI0zeSmzzGsi_rJ50-1" edge="1">
+        <mxCell id="kgTtI0zeSmzzGsi_rJ50-34" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="kgTtI0zeSmzzGsi_rJ50-1" edge="1" source="kgTtI0zeSmzzGsi_rJ50-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="820" y="790" as="sourcePoint" />
             <mxPoint x="878.75" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kgTtI0zeSmzzGsi_rJ50-37" value="资源接入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="kgTtI0zeSmzzGsi_rJ50-1" vertex="1">
+        <mxCell id="kgTtI0zeSmzzGsi_rJ50-37" value="节点接入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="kgTtI0zeSmzzGsi_rJ50-1" vertex="1">
           <mxGeometry x="434.69" y="410" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kgTtI0zeSmzzGsi_rJ50-38" value="集群管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="kgTtI0zeSmzzGsi_rJ50-1" vertex="1">
@@ -550,7 +550,7 @@
         <mxCell id="kgTtI0zeSmzzGsi_rJ50-39" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="kgTtI0zeSmzzGsi_rJ50-1" vertex="1">
           <mxGeometry x="120" y="230" width="540" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="kgTtI0zeSmzzGsi_rJ50-40" value="多集群调度" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="kgTtI0zeSmzzGsi_rJ50-1" vertex="1">
+        <mxCell id="kgTtI0zeSmzzGsi_rJ50-40" value="联合调度器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="kgTtI0zeSmzzGsi_rJ50-1" vertex="1">
           <mxGeometry x="334.21999999999997" y="410" width="85.47" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kgTtI0zeSmzzGsi_rJ50-43" value="服务监控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="kgTtI0zeSmzzGsi_rJ50-1" vertex="1">
