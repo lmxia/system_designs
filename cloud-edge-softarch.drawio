@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-05T03:35:08.852Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="mrqmRoBOQI1rqGVhVe9k" version="14.2.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-02-24T09:22:19.638Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="ymkxHn0u_l2p9EL1nkH0" version="14.4.2" type="github" pages="7">
   <diagram id="lI5RoNFp88MgGGNgni5x" name="Page-2">
-    <mxGraphModel dx="-708" dy="-603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-708" dy="-546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="msdkebxMWvLPw_NlSIgo-0" />
         <mxCell id="msdkebxMWvLPw_NlSIgo-1" parent="msdkebxMWvLPw_NlSIgo-0" />
@@ -229,7 +229,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ppnh7tpyNY-yCjYA81Ip" name="Page-5">
-    <mxGraphModel dx="946" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="kgTtI0zeSmzzGsi_rJ50-0" />
         <mxCell id="kgTtI0zeSmzzGsi_rJ50-1" parent="kgTtI0zeSmzzGsi_rJ50-0" />
@@ -329,9 +329,6 @@
         <mxCell id="TS-30S_ZtPCCUwQr37_C-22" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.internet;fillColor=none;strokeColor=#3399FF;" parent="kgTtI0zeSmzzGsi_rJ50-1" vertex="1">
           <mxGeometry x="175.31" y="615.41" width="117.34" height="72.75" as="geometry" />
         </mxCell>
-        <mxCell id="TS-30S_ZtPCCUwQr37_C-23" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.key_permissions" parent="kgTtI0zeSmzzGsi_rJ50-1" vertex="1">
-          <mxGeometry x="225.26999999999998" y="647.11" width="18.48" height="35.53" as="geometry" />
-        </mxCell>
         <mxCell id="TS-30S_ZtPCCUwQr37_C-26" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.globe;fillColor=#66B2FF;gradientColor=none;" parent="kgTtI0zeSmzzGsi_rJ50-1" vertex="1">
           <mxGeometry x="688.2099999999999" y="657.4399999999999" width="30" height="30" as="geometry" />
         </mxCell>
@@ -341,11 +338,11 @@
         <mxCell id="TS-30S_ZtPCCUwQr37_C-30" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.internet;fillColor=none;strokeColor=#3399FF;" parent="kgTtI0zeSmzzGsi_rJ50-1" vertex="1">
           <mxGeometry x="600.8699999999999" y="614.6899999999999" width="117.34" height="72.75" as="geometry" />
         </mxCell>
-        <mxCell id="TS-30S_ZtPCCUwQr37_C-31" value="私有云" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="kgTtI0zeSmzzGsi_rJ50-1" vertex="1">
-          <mxGeometry x="209.51" y="694.88" width="50" height="20" as="geometry" />
+        <mxCell id="TS-30S_ZtPCCUwQr37_C-31" value="混合云" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="kgTtI0zeSmzzGsi_rJ50-1" vertex="1">
+          <mxGeometry x="401.64" y="688.88" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TS-30S_ZtPCCUwQr37_C-32" value="专有云" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="kgTtI0zeSmzzGsi_rJ50-1" vertex="1">
-          <mxGeometry x="391.64" y="694.88" width="50" height="20" as="geometry" />
+        <mxCell id="TS-30S_ZtPCCUwQr37_C-32" value="边缘云" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="kgTtI0zeSmzzGsi_rJ50-1" vertex="1">
+          <mxGeometry x="205.31" y="688.88" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TS-30S_ZtPCCUwQr37_C-33" value="公有云" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="kgTtI0zeSmzzGsi_rJ50-1" vertex="1">
           <mxGeometry x="638.2099999999999" y="694.16" width="50" height="20" as="geometry" />
