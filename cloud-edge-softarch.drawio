@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-17T08:41:50.027Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="Bbwp4ZU5v-jhYfby_-yk" version="14.4.8" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-03-17T09:18:59.867Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="E6-FfRBXdSil7FCgTbYj" version="14.4.8" type="github" pages="9">
   <diagram id="lI5RoNFp88MgGGNgni5x" name="集群管理">
     <mxGraphModel dx="-357" dy="-245" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -83,7 +83,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="IDZiNuhCM3JMp1bRkz-M" name="Page-3">
+  <diagram id="IDZiNuhCM3JMp1bRkz-M" name="节点管理">
     <mxGraphModel dx="-357" dy="-245" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="CIlAjLKx_zQ3_18mQWrC-0" />
