@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-29T03:10:37.361Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="0GbImcDvCUTkmYqJTsXJ" version="14.4.8" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-03-29T03:10:59.185Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="ikMs9ZB17l768rfkz8i4" version="14.4.8" type="github" pages="9">
   <diagram id="lI5RoNFp88MgGGNgni5x" name="集群管理">
     <mxGraphModel dx="-228" dy="-603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -110,9 +110,6 @@
         <mxCell id="g9enPDMFYA-xLtdjFE80-4" value="增删改查请求" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="CIlAjLKx_zQ3_18mQWrC-1" vertex="1">
           <mxGeometry x="1725" y="1250" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="g9enPDMFYA-xLtdjFE80-5" value="节点状态&lt;br&gt;数据库" style="rounded=1;whiteSpace=wrap;html=1;" parent="CIlAjLKx_zQ3_18mQWrC-1" vertex="1">
-          <mxGeometry x="2080" y="1350" width="80" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="g9enPDMFYA-xLtdjFE80-6" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="CIlAjLKx_zQ3_18mQWrC-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1963" y="1375" as="sourcePoint" />
@@ -193,6 +190,9 @@
         </mxCell>
         <mxCell id="3NNq-RRazJeZmzFVsl2J-12" value="&lt;span style=&quot;color: rgb(108 , 118 , 125) ; font-size: 14px ; text-align: left&quot;&gt;部署节点描述&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;fillColor=#ffffff;gradientColor=none;" vertex="1" parent="CIlAjLKx_zQ3_18mQWrC-1">
           <mxGeometry x="1857" y="1440" width="66" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S1smOBOYKatEUatVrvEv-0" value="&lt;span&gt;节点状态&lt;/span&gt;&lt;br&gt;&lt;span&gt;数据库&lt;/span&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=1;fillColor=#ffffff;gradientColor=none;" vertex="1" parent="CIlAjLKx_zQ3_18mQWrC-1">
+          <mxGeometry x="2083" y="1330" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
