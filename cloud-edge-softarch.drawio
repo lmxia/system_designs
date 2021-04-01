@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-01T01:43:17.563Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="nNqPx03MjZMDvFkG3qLd" version="14.5.3" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-04-01T01:46:22.150Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="egUafkjJM3zvcU1OLG1Z" version="14.5.3" type="github" pages="9">
   <diagram id="lI5RoNFp88MgGGNgni5x" name="集群管理">
     <mxGraphModel dx="-708" dy="-546" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -221,7 +221,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WI1qoECa9Y9R4Opb1uH8" name="调度器">
-    <mxGraphModel dx="1577" dy="1038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="jMXSenY-9r7tCc_rm8bD-0" />
         <mxCell id="jMXSenY-9r7tCc_rm8bD-1" parent="jMXSenY-9r7tCc_rm8bD-0" />
@@ -432,10 +432,7 @@
           <mxGeometry x="930" y="574" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="mj07VKWgp1rYSfE1-3Tx-14" value="配置2" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;sketch=0;" vertex="1" parent="jMXSenY-9r7tCc_rm8bD-1">
-          <mxGeometry x="970" y="588" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="mj07VKWgp1rYSfE1-3Tx-16" value="工作负载" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;sketch=0;" vertex="1" parent="jMXSenY-9r7tCc_rm8bD-1">
-          <mxGeometry x="918.25" y="533" width="60" height="20" as="geometry" />
+          <mxGeometry x="880" y="588" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mj07VKWgp1rYSfE1-3Tx-18" value="集群N" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;dashed=1;" vertex="1" parent="jMXSenY-9r7tCc_rm8bD-1">
           <mxGeometry x="730.72" y="628" width="50" height="20" as="geometry" />
@@ -452,6 +449,9 @@
         </mxCell>
         <mxCell id="mj07VKWgp1rYSfE1-3Tx-24" value="工作负载" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;sketch=0;" vertex="1" parent="jMXSenY-9r7tCc_rm8bD-1">
           <mxGeometry x="915" y="460" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mj07VKWgp1rYSfE1-3Tx-25" value="集群1" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;dashed=1;" vertex="1" parent="jMXSenY-9r7tCc_rm8bD-1">
+          <mxGeometry x="930" y="630" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
