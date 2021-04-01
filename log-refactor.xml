@@ -1,4 +1,4 @@
-<mxfile modified="2021-04-01T01:54:52.647Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="2RN6L9SC8WEtmwC_iUM0" version="14.5.3" type="github" pages="2">
+<mxfile modified="2021-04-01T01:56:07.562Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="13UZEOqjYiod7pGP9fzy" version="14.5.4" type="github" pages="2">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="946" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -48,7 +48,7 @@
         <mxCell id="mooyXoSkRvsxmS-Yepcm-114" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;日志块生成组件&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;写入鉴权、日志量&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;控制&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="257" y="480" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="mooyXoSkRvsxmS-Yepcm-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startArrow=classic;startFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#A30053;strokeWidth=2;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="mooyXoSkRvsxmS-Yepcm-114" target="mooyXoSkRvsxmS-Yepcm-105" edge="1">
+        <mxCell id="mooyXoSkRvsxmS-Yepcm-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;startArrow=classic;startFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#A30053;strokeWidth=2;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="mooyXoSkRvsxmS-Yepcm-114" target="mooyXoSkRvsxmS-Yepcm-105" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="509.5" y="594" as="sourcePoint" />
             <Array as="points">
