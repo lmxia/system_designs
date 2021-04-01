@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-01T01:46:22.150Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="egUafkjJM3zvcU1OLG1Z" version="14.5.3" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-04-01T01:47:06.466Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="hF8_bOO1Yx8F8yQodfzm" version="14.5.3" type="github" pages="9">
   <diagram id="lI5RoNFp88MgGGNgni5x" name="集群管理">
     <mxGraphModel dx="-708" dy="-546" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -221,7 +221,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WI1qoECa9Y9R4Opb1uH8" name="调度器">
-    <mxGraphModel dx="946" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1351" dy="890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="jMXSenY-9r7tCc_rm8bD-0" />
         <mxCell id="jMXSenY-9r7tCc_rm8bD-1" parent="jMXSenY-9r7tCc_rm8bD-0" />
@@ -250,7 +250,7 @@
         <mxCell id="jMXSenY-9r7tCc_rm8bD-2" value="副本&lt;br&gt;调度控制器" style="rounded=1;whiteSpace=wrap;html=1;" parent="jMXSenY-9r7tCc_rm8bD-1" vertex="1">
           <mxGeometry x="130" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jMXSenY-9r7tCc_rm8bD-9" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Global&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];rounded=0;fillColor=#ffffff;" parent="jMXSenY-9r7tCc_rm8bD-1" vertex="1">
+        <mxCell id="jMXSenY-9r7tCc_rm8bD-9" value="&lt;font style=&quot;font-size: 18px&quot;&gt;控制层&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];rounded=0;fillColor=#ffffff;" parent="jMXSenY-9r7tCc_rm8bD-1" vertex="1">
           <mxGeometry x="263.7" y="140" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jMXSenY-9r7tCc_rm8bD-17" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=25;entryDy=0;entryPerimeter=0;" parent="jMXSenY-9r7tCc_rm8bD-1" source="jMXSenY-9r7tCc_rm8bD-2" edge="1">
