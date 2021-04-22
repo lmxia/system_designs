@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-04-22T08:23:50.797Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="tC4Wrrx-EX39PX6qRdYG" version="14.6.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-04-22T08:24:26.621Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="7YLmTziENvc0IMSfmjKU" version="14.6.1" type="github" pages="8">
   <diagram id="lI5RoNFp88MgGGNgni5x" name="集群管理">
     <mxGraphModel dx="-713" dy="-512" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="msdkebxMWvLPw_NlSIgo-0" />
         <mxCell id="msdkebxMWvLPw_NlSIgo-1" parent="msdkebxMWvLPw_NlSIgo-0" />
+        <mxCell id="RKZAEOhFyzjzHnqdF2Zg-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#4C0099;strokeColor=#4C0099;strokeWidth=2;fillColor=#ffffff;" vertex="1" parent="msdkebxMWvLPw_NlSIgo-1">
+          <mxGeometry x="1655" y="1173" width="824" height="359" as="geometry" />
+        </mxCell>
         <mxCell id="BHLONQJ8GlK8dCWR9Fvm-0" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#B266FF;fontColor=#4C0099;" parent="msdkebxMWvLPw_NlSIgo-1" vertex="1">
           <mxGeometry x="1742" y="1190" width="357" height="332" as="geometry" />
         </mxCell>
