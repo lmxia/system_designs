@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-22T07:38:24.456Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="Q0tp91bKAUzACkXTLFY2" version="14.6.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-04-22T08:01:36.149Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="2xVjw9XBgm-rOlo-UEiY" version="14.6.1" type="github" pages="8">
   <diagram id="lI5RoNFp88MgGGNgni5x" name="集群管理">
-    <mxGraphModel dx="-868" dy="-692" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-713" dy="-512" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="msdkebxMWvLPw_NlSIgo-0" />
         <mxCell id="msdkebxMWvLPw_NlSIgo-1" parent="msdkebxMWvLPw_NlSIgo-0" />
@@ -107,7 +107,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IDZiNuhCM3JMp1bRkz-M" name="节点管理">
-    <mxGraphModel dx="-344" dy="-374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-310" dy="-230" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="CIlAjLKx_zQ3_18mQWrC-0" />
         <mxCell id="CIlAjLKx_zQ3_18mQWrC-1" parent="CIlAjLKx_zQ3_18mQWrC-0" />
@@ -224,7 +224,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WI1qoECa9Y9R4Opb1uH8" name="调度器">
-    <mxGraphModel dx="1113" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="941" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="jMXSenY-9r7tCc_rm8bD-0" />
         <mxCell id="jMXSenY-9r7tCc_rm8bD-1" parent="jMXSenY-9r7tCc_rm8bD-0" />
