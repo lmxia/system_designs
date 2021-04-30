@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-30T02:10:56.785Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="JMU9GYnsNvjTYAiPNxjp" version="14.6.5" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-04-30T02:11:10.985Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="ekEPZT18ff7K9v68hTm3" version="14.6.5" type="github" pages="9">
   <diagram id="lI5RoNFp88MgGGNgni5x" name="集群管理">
     <mxGraphModel dx="-541" dy="-438" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -916,7 +916,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jigmm9dhj0R4kKOdU7KC" name="admiiralty">
-    <mxGraphModel dx="-866" dy="-651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="238" dy="73" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0aANf45i4UtSmKkV8Nq1-0" />
         <mxCell id="0aANf45i4UtSmKkV8Nq1-1" parent="0aANf45i4UtSmKkV8Nq1-0" />
@@ -1009,8 +1009,8 @@
             <mxPoint x="2170.1" y="1777.5048000000004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7VBb09-H6fKKuud2CXKD-38" value="&lt;font style=&quot;font-size: 18px&quot;&gt;控制集群&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;dashed=1;fontColor=#4C0099;" vertex="1" parent="0aANf45i4UtSmKkV8Nq1-1">
-          <mxGeometry x="2258" y="1580" width="82" height="20" as="geometry" />
+        <mxCell id="7VBb09-H6fKKuud2CXKD-38" value="&lt;font style=&quot;font-size: 18px&quot;&gt;工作集群&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;dashed=1;fontColor=#4C0099;" vertex="1" parent="0aANf45i4UtSmKkV8Nq1-1">
+          <mxGeometry x="2254" y="1580" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7VBb09-H6fKKuud2CXKD-39" value="" style="elbow=vertical;endArrow=classic;html=1;exitX=0.489;exitY=0.998;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#3333FF;fontColor=#4C0099;entryX=0.399;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="0aANf45i4UtSmKkV8Nq1-1" source="7VBb09-H6fKKuud2CXKD-36">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
